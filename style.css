@@ -9,10 +9,12 @@
     padding-top: 50px;
     width: 20%;
       }
-    h1{}
+    
 .sottotitolo{font-size: small;
    }
 .azzurro{color: #4EA0FF;}
 .piccolo{
     display: block;
     font-size: xx-small;}
+.giallo{background-color: #FFFF00;
+}
