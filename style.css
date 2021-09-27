@@ -18,3 +18,11 @@
     font-size: xx-small;}
 .giallo{background-color: #FFFF00;
 }
+table {table-layout: fixed; width: 100%;
+  }
+th{background-color: #4EA0FF;
+color: white;
+text-align: left;
+}
+.sfondo-tabella{background-color: #B1E5F2;
+    }
